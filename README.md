@@ -1,6 +1,6 @@
 # Introduction
 
-This repository contains high-level infrastructure code for training graph neural networks based on CommonRoad-Geometric.
+This repository contains high-level infrastructure code for training graph neural networks based on [CommonRoad-Geometric](https://github.com/CommonRoad/crgeo).
 
 ---
 
